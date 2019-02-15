@@ -5,20 +5,25 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Hola Seattle
-      </div>
+      Generic project#1      </div>
       <div className='portfolio-item__desc'>
-       Seattle Bilingual Tours
+       custom react site for local company
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-npm"></i>
+      <i className="fab fa-html5"></i>
+      <i className="fab fa-css3"></i>
+      <i className="fab fa-js"></i>
+      <i className="fab fa-react"></i>
+      <i className="fab fa-docker"></i>
+      <i className="fab fa-npm"></i>
+      <i className="fab fa-android"></i>
+      <i className="fab fa-app-store-ios"></i>
+      <i className="fas fa-mobile-alt"></i>
 
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/chor">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://holaseattle.com/">More</a>
+      
+        <a target="_blank" rel="noopener noreferrer" href="https://holaseattle.com/">Want to see it live?</a>
       </div>
     </div>
   )
@@ -27,15 +32,19 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        dot money
-      </div>
+      Generic project #2      </div>
       <div className='portfolio-item__desc'>
-        Capital Gains calculator for cryptocurrency trading       </div>
+        Something else      </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-html5"></i>
         <i className="fab fa-css3"></i>
         <i className="fab fa-js"></i>
+        <i className="fab fa-react"></i>
         <i className="fab fa-docker"></i>
+        <i className="fab fa-npm"></i>
+        <i className="fab fa-android"></i>
+        <i className="fab fa-app-store-ios"></i>
+        <i className="fas fa-mobile-alt"></i>
 
 
       </div>
@@ -50,15 +59,20 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Hash Miners
-      </div>
+      Generic project #3      </div>
       <div className='portfolio-item__desc'>
-        Boilerplate smart contract/blockchain app
+        another generic
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-docker"></i>
+      <i className="fab fa-html5"></i>
+      <i className="fab fa-css3"></i>
+      <i className="fab fa-js"></i>
+      <i className="fab fa-react"></i>
+      <i className="fab fa-docker"></i>
+      <i className="fab fa-npm"></i>
+      <i className="fab fa-android"></i>
+      <i className="fab fa-app-store-ios"></i>
+      <i className="fas fa-mobile-alt"></i>
 
       </div>
       <div className='portfolio-item__links'>
@@ -72,15 +86,21 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Toni Arakaki
+        Generic project #4
       </div>
       <div className='portfolio-item__desc'>
-        Personal Website for drift champion in Japan 
+        Personal Website  
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
+      <i className="fab fa-html5"></i>
+      <i className="fab fa-css3"></i>
+      <i className="fab fa-js"></i>
+      <i className="fab fa-react"></i>
+      <i className="fab fa-docker"></i>
+      <i className="fab fa-npm"></i>
+      <i className="fab fa-android"></i>
+      <i className="fab fa-app-store-ios"></i>
+      <i className="fas fa-mobile-alt"></i>
 
       </div>
       <div className='portfolio-item__links'>
@@ -94,15 +114,12 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Audio streaming service
-      </div>
+      Generic project #5      </div>
       <div className='portfolio-item__desc'>
         Indy streaming service
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-android"></i>
-        <i className="fab fa-app-store-ios"></i>
-        <i className="fas fa-mobile-alt"></i>
+       
 
 
       </div>
@@ -126,7 +143,7 @@ export default [{
         <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="/">NPM</a>
+        <a target="_blank" rel="noopener noreferrer" href="/">github</a>
         <a target="_blank" rel="noopener noreferrer" href="/">More</a>
       </div>
     </div>

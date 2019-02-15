@@ -8,7 +8,7 @@ const Footer = (props, context) => {
   return (
     <footer>
       <div className="content-grid">
-        <div style={{ color: textPrimary }}>Made with<span role="img" aria-label="heart"> ❤️ by </span> <a href="https://www.linkedin.com/in/hnorzagaray/" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>nzytag.com </a> </div>
+        <div style={{ color: textPrimary }}>Made with<span role="img" aria-label="heart"> ❤️ by </span> <a href="https://www.linkedin.com/in/hnorzagaray/" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>Hector Norza nzytag.com</a> </div>
       </div>
     </footer>
   );
