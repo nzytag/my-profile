@@ -21,7 +21,7 @@ const AboutPage = (props, context) => {
         `}
       </style>
       <div className="content-grid">
-        <h1 style={{ color: colorPrimary }}>Who is Hector Norza-Garay?</h1>
+        <h1 style={{ color: colorPrimary }}>Who is Hector Norza?</h1>
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>

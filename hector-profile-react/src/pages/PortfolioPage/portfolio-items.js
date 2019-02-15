@@ -62,7 +62,7 @@ export default [{
 
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flex/react-redux-boilerplate-with-best-practices--2pp5"></a>
+       
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/react-redux-boilerplate">More</a>
       </div>
     </div>
