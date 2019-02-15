@@ -41,7 +41,7 @@ class ScrollTop extends Component {
           style={{ color: colorPrimary }}
         >
           <button className="fas fa-angle-double-up fa-2x" href="#" />
-          <div className="to-top">To Top</div>
+          <div className="to-top">Beam Me Up!</div>
         </div>
       </div>
     );

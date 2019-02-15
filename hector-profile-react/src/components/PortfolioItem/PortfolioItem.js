@@ -23,7 +23,6 @@ const PortfolioItem = (props, context) => {
         </div>
         <div className="portfolio-item__links">
           <a src="#">Code</a>
-          <a src="#">Blog</a>
         </div>
       </div>
     );

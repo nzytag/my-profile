@@ -16,17 +16,11 @@ const LandingPage = (props, context) => {
       <main style={{ color: colorPrimary }}>
         <BrowserNotes />
         <div className="intro-wrapper">
-
           <div className="intro-name">nzytag.com</div>
           <div className="tagline">
-          <img src="logo.png" id="bg" alt=""></img>
-
-            Full Stack Software Development | Mobile Development | Web Development
+            Web Development | Mobile Development | Custom Solutions
           </div>
-          
-
           <SocialIcons />
-          
         </div>
       </main>
       <ScrollToNext pageSelector=".about-page" />

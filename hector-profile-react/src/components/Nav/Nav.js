@@ -56,8 +56,9 @@ class Nav extends Component {
         }}
         style={stickyStyles}
       >
-        <div className="magic-wand bounce-xy" onClick={(e) => switchTheme()}>
-          <div className="magic-text">Want to change my colors?</div>
+        <div className="random bounce-xy" onClick={(e) => switchTheme()}>
+          <button className="fas fa-random fa-lg" href="#" />
+          <div className="random-text">change colors</div>
         </div>
         <style jsx="true">
           {`
@@ -71,7 +72,7 @@ class Nav extends Component {
             className="menu__item active"
             onClick={(e) => this.scrollToPage('.about-page')}
           >
-            Who is nzytag?
+            About
           </div>
           <div
             className="menu__item"
@@ -79,7 +80,6 @@ class Nav extends Component {
           >
             Portfolio
           </div>
-          
         </div>
       </nav>
     );

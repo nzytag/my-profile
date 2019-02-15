@@ -21,22 +21,35 @@ const AboutPage = (props, context) => {
         `}
       </style>
       <div className="content-grid">
-        <h1 style={{ color: colorPrimary }}>About nzytag.com</h1>
+        <h1 style={{ color: colorPrimary }}>Who is Hector Norza-Garay?</h1>
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              Here at  <span className="highlight">nzytag.com</span> we love
-              everything web.
+              After spending years and <span className="highlight"> YEARS</span> working on accounting, it sas time to transition into something more challenging. As an artist, I always have this desire to build pretty things. I realized that becoming a developer would give me the tools in order to <span className="highlight"> create that next beautiful site.</span>
             </p>
             <p>
-              Everything started  when{' '} <span className="highlight"> I started translating websites to spanish</span> and decided to go ahead and start venturing into the freelance world in order to always have a new challenge at hand. 
-              I realized that technologies are ever changing and I could always have that "new car smell" approach to development. I also also like to{' '}
-              <span className="highlight">podcast and blog</span> and talk about the approach I am taking with the most challenging projects.
+              I started translating websites to spanish and that was my entrance  {' '}
+              <span className="highlight">into the wonderful world of developement!. </span>
+              {' '} So, I decided to study full time and make the transition into this "new field".{' '}
+              <span className="highlight">And now, I make the pretty things!. </span>
+
             </p>
-            <h1 style={{ color: colorPrimary }}>Technologies I use</h1>
+            <h1 style={{ color: colorPrimary }}>Mobile and Web development are my thing...</h1>
 
             <p>
-              HTML5, CSS3, JavaScript, Wordpress, React, Node, React Native, Swift, Docker, Blockchain and other frameworks and libraries...Always looking forward to learn new ones also...! 
+            I have worked and want to continue working on Mobile App development, <span className="highlight">{' '}especially working with React Native to create iOS and Android apps. </span>
+            
+            
+  
+            </p>
+            <h1 style={{ color: colorPrimary }}>Front-end is my passion!</h1>
+
+            <p>
+            Being a 
+            <span className="highlight">{' '}Full-Stack Developer has made me a better Front-end developer!. </span>
+            I understand what needs to be done in every aspect of the application.
+
+            
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
          
